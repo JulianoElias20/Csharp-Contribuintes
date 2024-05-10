@@ -1,0 +1,14 @@
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\bin\Debug\net8.0\Contribuintes.exe
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\bin\Debug\net8.0\Contribuintes.deps.json
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\bin\Debug\net8.0\Contribuintes.runtimeconfig.json
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\bin\Debug\net8.0\Contribuintes.dll
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\bin\Debug\net8.0\Contribuintes.pdb
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\Contribuintes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\Contribuintes.AssemblyInfoInputs.cache
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\Contribuintes.AssemblyInfo.cs
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\Contribuintes.csproj.CoreCompileInputs.cache
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\Contribuintes.dll
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\refint\Contribuintes.dll
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\Contribuintes.pdb
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\Contribuintes.genruntimeconfig.cache
+C:\Users\julia\source\repos\Contribuintes\Contribuintes\obj\Debug\net8.0\ref\Contribuintes.dll
